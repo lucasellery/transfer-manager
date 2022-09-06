@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.menuButton {
+  color: #fff;
+}
+
+header .title {
+  font-family: Nunito, 'sans-serif';
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 34px;
+  letter-spacing: 0.05em;
+
+  color: #FFFFFF;
+}
