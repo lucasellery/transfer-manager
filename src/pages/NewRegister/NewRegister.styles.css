@@ -1,0 +1,27 @@
+.new-register-container {
+  padding: 20px;
+  height: 100vh;
+
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.add-button {
+  margin-top: 3.125rem;
+  background-color: #00AC45;
+  color: #FFFFFF;
+  text-transform: capitalize;
+  font-family: 'Nunito';
+  font-weight: 900;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+}
+
+.cancel-button {
+  margin-top: 1rem;
+  text-transform: capitalize;
+  font-family: 'Nunito';
+  font-weight: 900;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+}
